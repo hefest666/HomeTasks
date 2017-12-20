@@ -1,0 +1,7 @@
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\bin\Debug\Matrix.exe.config
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\bin\Debug\Matrix.exe
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\obj\Debug\Matrix.exe
+C:\Users\Viktor\Documents\Visual Studio 2017\Projects\Matrix\Matrix\obj\Debug\Matrix.pdb
